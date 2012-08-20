@@ -1,0 +1,17 @@
+{
+	"name": "formater",
+	"description": "",
+	"version": "0.0.1",
+	"author": "Evgeny Reznichenko <kusakyky@gmail.com>",
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+	"keywords": [],
+	"repository": "",
+	"main": "index",
+	"scripts": {
+		"test": "make test"
+	},
+	"engines": { "node": "*" }	
+}
